@@ -1,0 +1,77 @@
+.entry-header .entry-title {
+  display: none; }
+
+.entry-content {
+  font-family: Helvetica, sans-serif;
+  width: 100%;
+  padding: 0 !important; }
+  .entry-content .black-content {
+    background-color: #000;
+    color: #fff; }
+  .entry-content .entry-content-pad {
+    max-width: 700px;
+    margin: auto; }
+  .entry-content .about-us {
+    display: flex;
+    -ms-flex-direction: row;
+    -webkit-flex-direction: row;
+    flex-direction: row; }
+    .entry-content .about-us > :first-child {
+      -ms-flex: 2;
+      -webkit-flex: 2;
+      flex: 2;
+      -ms-align-self: center;
+      -webkit-align-self: center;
+      align-self: center;
+      padding-right: 20px;
+      text-align: right; }
+    .entry-content .about-us > :last-child {
+      -ms-flex: 10;
+      -webkit-flex: 10;
+      flex: 10; }
+    .entry-content .about-us ul {
+      list-style: none;
+      padding: 0; }
+  .entry-content .members {
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+    padding: 0 !important; }
+    .entry-content .members .about-us-member {
+      display: flex;
+      -ms-flex-direction: row;
+      -webkit-flex-direction: row;
+      flex-direction: row;
+      margin-bottom: 15px; }
+      .entry-content .members .about-us-member p {
+        margin: auto; }
+      .entry-content .members .about-us-member > :first-child {
+        -ms-flex: 2;
+        -webkit-flex: 2;
+        flex: 2;
+        -ms-align-self: center;
+        -webkit-align-self: center;
+        align-self: center;
+        padding: 40px;
+        text-align: right; }
+      .entry-content .members .about-us-member > :last-child {
+        -ms-flex: 10;
+        -webkit-flex: 10;
+        flex: 10; }
+  .entry-content .social-footer {
+    margin: auto;
+    max-width: 405px;
+    display: flex;
+    -ms-flex-direction: row;
+    -webkit-flex-direction: row;
+    flex-direction: row; }
+    .entry-content .social-footer p a {
+      -ms-flex: 2;
+      -webkit-flex: 2;
+      flex: 2;
+      -ms-align-self: center;
+      -webkit-align-self: center;
+      align-self: center; }
+
+.entry-footer {
+  border: 0 !important; }
