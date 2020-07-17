@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/houstondapaz/tapume-filmes#readme",
   "dependencies": {
-    "sass-lint": "^1.11.0"
+    "sass-lint": "^1.13.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
