@@ -950,9 +950,10 @@ glogg@^1.0.0:
   dependencies:
     sparkles "^1.0.0"
 
-gonzales-pe@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/gonzales-pe/-/gonzales-pe-4.1.1.tgz#3a280c1c01b06515784878038dedb900a6585bb2"
+gonzales-pe-sl@^4.2.3:
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/gonzales-pe-sl/-/gonzales-pe-sl-4.2.3.tgz#6a868bc380645f141feeb042c6f97fcc71b59fe6"
+  integrity sha1-aoaLw4BkXxQf7rBCxvl/zHG1n+Y=
   dependencies:
     minimist "1.1.x"
 
@@ -2229,9 +2230,10 @@ sass-graph@^2.1.1:
     scss-tokenizer "^0.2.3"
     yargs "^7.0.0"
 
-sass-lint@^1.11.0:
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/sass-lint/-/sass-lint-1.11.0.tgz#af493151764370d182fb4ffaee25b11dc5596789"
+sass-lint@^1.13.0:
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/sass-lint/-/sass-lint-1.13.1.tgz#5fd2b2792e9215272335eb0f0dc607f61e8acc8f"
+  integrity sha512-DSyah8/MyjzW2BWYmQWekYEKir44BpLqrCFsgs9iaWiVTcwZfwXHF586hh3D1n+/9ihUNMfd8iHAyb9KkGgs7Q==
   dependencies:
     commander "^2.8.1"
     eslint "^2.7.0"
@@ -2239,7 +2241,7 @@ sass-lint@^1.11.0:
     fs-extra "^3.0.1"
     glob "^7.0.0"
     globule "^1.0.0"
-    gonzales-pe "^4.1.1"
+    gonzales-pe-sl "^4.2.3"
     js-yaml "^3.5.4"
     known-css-properties "^0.3.0"
     lodash.capitalize "^4.1.0"
